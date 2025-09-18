@@ -1,0 +1,6 @@
+[
+  { "id": 1, "titulo": "Matrix", "genero": "Ação", "ano": 1999 },
+  { "id": 2, "titulo": "Toy Story", "genero": "Animação", "ano": 1995 },
+  { "id": 3, "titulo": "Vingadores", "genero": "Ação", "ano": 2012 },
+  { "id": 4, "titulo": "O Rei Leão", "genero": "Animação", "ano": 1994 }
+]
